@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login App Innovaccer</string>
+    <string name="sub">SUBMIT</string>
+    <string name="input_lable">NAME</string>
+    <string-array name="Designation">
+        <item>HOST</item>
+        <item>VISITOR</item>
+    </string-array>
+</resources>

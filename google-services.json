@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "146109267221",
+    "firebase_url": "https://login-innovaccer.firebaseio.com",
+    "project_id": "login-innovaccer",
+    "storage_bucket": "login-innovaccer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146109267221:android:f19e1ca3bbe30b55a33d1c",
+        "android_client_info": {
+          "package_name": "com.example.loginappinnovaccer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146109267221-ljnqfiftmtvcprdj0e6tbpljmk61ef6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLyG2hpGxMHuIGOt3Z4_aNuQDzUaEORhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146109267221-ljnqfiftmtvcprdj0e6tbpljmk61ef6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
